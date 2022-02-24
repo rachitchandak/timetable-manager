@@ -22,7 +22,7 @@ Time Table Manager requires Java installed with android studio.
 Install the dependencies and clone the files on your device or download the zip file and extract its contents.
 
 ```
-git clone <github-link>
+git clone https://github.com/rachitchandak/timetable-manager
 ```
 
 Start Android Studio and create a new project and import the files downloaded.
